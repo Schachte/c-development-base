@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/c_dev_Env/build",
+  "command": "/usr/bin/cc  -I/workspaces/c_dev_Env/include  -o CMakeFiles/Dummy.dir/src/dummy.c.o -c /workspaces/c_dev_Env/src/dummy.c",
+  "file": "/workspaces/c_dev_Env/src/dummy.c"
+}
+]

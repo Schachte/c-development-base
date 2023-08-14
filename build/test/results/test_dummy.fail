@@ -1,0 +1,18 @@
+---
+:source:
+  :path: test
+  :file: test_dummy.c
+:successes: []
+:failures:
+- :test: test_dummy
+  :line: 7
+  :message: Expected 4 Was 3
+  :unity_test_time: 0
+:ignores: []
+:counts:
+  :total: 1
+  :passed: 0
+  :failed: 1
+  :ignored: 0
+:stdout: []
+:time: 0.026700041998992674

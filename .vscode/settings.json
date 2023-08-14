@@ -1,0 +1,8 @@
+{
+    "[c]": {
+        "editor.defaultFormatter": "xaver.clang-format",
+        "editor.formatOnSave": true
+    },
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+    "cmake.configureOnOpen": true,
+}

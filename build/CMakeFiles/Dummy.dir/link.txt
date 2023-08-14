@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDummy.a CMakeFiles/Dummy.dir/src/dummy.c.o
+/usr/bin/ranlib libDummy.a

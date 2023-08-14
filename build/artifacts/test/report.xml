@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TestRun>
+	<FailedTests>
+		<Test id="1">
+			<Name>test/test_dummy.c::test_dummy</Name>
+			<FailureType>Assertion</FailureType>
+			<Location>
+				<File>test/test_dummy.c</File>
+				<Line>7</Line>
+			</Location>
+			<Message>Expected 4 Was 3</Message>
+		</Test>
+	</FailedTests>
+	<SuccessfulTests/>
+	<IgnoredTests/>
+	<Statistics>
+		<Tests>1</Tests>
+		<Ignores>0</Ignores>
+		<FailuresTotal>1</FailuresTotal>
+		<Errors>0</Errors>
+		<Failures>1</Failures>
+	</Statistics>
+</TestRun>
